@@ -1,9 +1,9 @@
 class Sbg < Formula
   desc "A command line tool to generate swift boilerplate"
   homepage "https://github.com/tooploox/sbg"
-  url "https://github.com/tooploox/sbg/raw/master/archive/sbg-for..1.tar.gz"
-  sha256 "1c964b7dee1a216af183ecc22a6d787366ec4a48af066cf203640513f79c9eec"
-  version "for..1"
+  url "https://github.com/tooploox/sbg/raw/master/archive/sbg-0.1.6.tar.gz"
+  sha256 "179ebd4b756ec317f85b5d3ac065eca82f73d663790f1ae71536da4c1d421ef6"
+  version "0.1.6"
 
   bottle :unneeded
 
